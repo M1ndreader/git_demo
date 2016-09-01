@@ -30,15 +30,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.wygl.tt</string>
+				<string>com.chinaTower.WuYeTest</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Realease20140828</string>
+				<string>Realease20160901</string>
 				<key>title</key>
-				<string>物业管理</string>
+				<string>物业系统</string>
 			</dict>
 		</dict>
 	</array>
